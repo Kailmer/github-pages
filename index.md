@@ -1,5 +1,4 @@
 ---
-title: Test
+title: Welcome to my blog
 ---
 
-Test
